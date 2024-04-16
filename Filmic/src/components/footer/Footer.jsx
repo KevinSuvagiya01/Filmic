@@ -22,12 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Unleash your inner explorer and dive into a world of captivating entertainment! Whether you're a seasoned cinephile or just starting your cinematic journey, Filmic is your ultimate guide. Explore a vast library of movies and web series, from timeless classics to the latest releases. Discover in-depth reviews, trailers, and personalized recommendations to fuel your movie marathons and binge-worthy adventures. Get lost in gripping narratives, laugh along with hilarious comedies, and be transported to fantastical worlds.  We are your one-stop for movie and web series exploration, so start browsing today and find your next favorite film or show!
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
